@@ -1,0 +1,31 @@
+.headder{
+    height:70px;
+    background-color:#0A0A25;
+    position:fixed;
+    top:0px;
+    bottom:20px;
+    left:0px;
+    right:0px;
+    
+}.logo-headder{
+    padding-left:18px;
+    padding-top:27px;
+    height:25px;
+    cursor:pointer;
+}
+ .nav-link{
+ display:flex;
+ height:18px;
+    margin-left:450px;
+     position:relative;
+    bottom:18px;
+    line-height:4px;
+    color:white;
+    font-size:17px;
+    font-family:roboto;
+    font-weight:500;
+    cursor:pointer;
+ }ul:hover{
+    color:rgb(228, 45, 45);
+
+ }
